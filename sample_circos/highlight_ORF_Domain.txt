@@ -1,0 +1,12 @@
+hs1	28274	29533	ORF9       fill_color=chr3
+hs1	27394	27759	ORF7a       fill_color=chr7
+hs1	26253	27191	ORF5       fill_color=chr7
+hs1	27202	27387	ORF6       fill_color=chr6
+hs1	27756	27887	ORF7b       fill_color=chr7
+hs1	27894	28259	ORF8       fill_color=chr6
+hs1	29558	29674	ORF10       fill_color=chr7
+hs1	16236	18039	nsp13      fill_color=chr8
+hs1	18040	19620	nsp14       fill_color=chr7
+hs1	19621	20658	nsp15       fill_color=chr8
+hs1	20659	21552	nsp16       fill_color=chr7
+hs1     13468   16236   nsp12       fill_color=chr7
