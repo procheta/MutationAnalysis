@@ -1,0 +1,6 @@
+hs1    21577   21880   NTD       fill_color=chr7
+hs1    21894   21999  RBD       fill_color=chr7
+hs1    22000   22071   RBM       fill_color=chr8
+hs1    22378   22397   FP       fill_color=chr7
+hs1    22643   22698  CD       fill_color=chr8
+hs1    22777   22797   TM       fill_color=chr7

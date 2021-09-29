@@ -1,0 +1,2 @@
+hs1	21910	21912	S1	color=chr1
+hs1	22873	22875	S2	color=chr1

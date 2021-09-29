@@ -1,0 +1,15 @@
+hs1	8781	8782	1.92	color=chr3
+hs1	27799	27800	0.83	color=chr3
+hs1	11082	11083	3.59	color=chr3
+hs1	3036	3037	91.16	color=chr3
+hs1	28143	28144	2.17	color=chr3
+hs1	26143	26144	1.00	color=chr3
+hs1	240	241	85.07	color=chr3
+hs1	3036	3037	91.16	color=chr3
+hs1	14407	14408	90.99	color=chr3
+hs1	23402	23403	92.33	color=chr3
+hs1	25562	25563	25.19	color=chr3
+hs1	28880	28881	38.28	color=chr3
+hs1	28881	28882	38.12	color=chr3
+hs1	28882	28883	38.20	color=chr3
+hs1	1058	1059	15.43	color=chr3

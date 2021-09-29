@@ -1,0 +1,2 @@
+hs1    21577   22244   S1       fill_color=chr7
+hs1    22245   23501  S2       fill_color=chr7

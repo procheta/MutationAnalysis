@@ -1,0 +1,6 @@
+hs1	21577	21560	NTD	color=chr1
+hs1	21946	21947	RBD	color=chr1
+hs1	22035	22036	RBM	color=chr1
+hs1	22387	22389	FP	color=chr1
+hs1	22670	22671	CD	color=chr1
+hs1     22787   22789   TM    color=chr1
